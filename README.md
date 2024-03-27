@@ -1,7 +1,6 @@
-# Keerthi Bai reddy
 ## Data Engineer
 ### Email: keerthibaireddy02@gmail.com
-### LinkedIn: https://www.linkedin.com/in/keerthibaireddy/
+### LinkedIn: [https://www.linkedin.com/in/keerthibaireddy/](https://www.linkedin.com/in/keerthibaireddy/)
 
 ## About
 As an analytics professional, I thrive on transforming data to provide data-driven solutions. My 3+ years of experience as a Data Engineer has enhanced my skills in synthesizing compelling narratives and stories from the data using SQL and Python. Expertise in implementing ETL process and developing efficient transformations to optimize the processing time and system performance using Cloud services like GCP and AWS.  I am currently enrolled in MS program of Business Analytics and Information Systems major to further develop my passion towards the intersection of Technology and Business. 
