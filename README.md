@@ -1,5 +1,5 @@
 ## Data Engineer
-### Email: [keerthibaireddy02@gmail.com](keerthibaireddy02@gmail.com)
+### Email: [keerthibaireddy02@gmail.com](https://mail.google.com/mail/u/1/#inbox)
 ### LinkedIn: [https://www.linkedin.com/in/keerthibaireddy/](https://www.linkedin.com/in/keerthibaireddy/)
 
 ## About
