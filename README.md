@@ -17,8 +17,10 @@ I aspire to utilize my passion towards data in providing inisghts that enhances 
 • Databases: MySQL, NoSQL (MongoDB), MS SQL Server, PostgreSQL, Cassandra 
 
 ## Education							       		
-- M.S. Business Analytics and Information Technology	| University of South Florida ( May 2024 ) - Tampa, FL	 			        		
-- B.S. Information Technology | Sreenidhi Institure of Science and Technology ( June 2019 ) - Hyderabad, India
+##### University of South Florida - Tampa, FL	 	
+M.S. Business Analytics and Information Systems (May 2024)
+##### Sreenidhi Institute of Science and Technology - Hyderabad, India
+B.S. Information Technology (June 2019)
 
 ## Work Experience
 **Graduate Teaching Assistant @ University of South Florida - Tampa, FL (_Aug 2022 - Present_)**
