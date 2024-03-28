@@ -53,6 +53,8 @@ I aspire to utilize my passion towards data in providing inisghts that enhances 
 
 -	Web scraped the reviews and ratings data from Rate My Professor Website, processed and stored in Hive.
 -	Performed Exploratory Data Analysis using sparkSQL and applied NLP techniques in PySpark to perform Sentimental Analysis to predict impact of reviews on Quality of Hospitality Education
+  
+![Reviews and Ratings ](/assets/img/review.png)
 
 ### Predicting Click Conversion Rates | R, Tobit Model
 [Source Code](https://github.com/Keerthibaireddy/Click-Conversion-Rate-Prediction)
@@ -60,8 +62,12 @@ I aspire to utilize my passion towards data in providing inisghts that enhances 
 -	Conducted advance analysis on primary factors of Click conversion rates utilizing product features like category, brand, price, and user demographics and employed Tobit model censoring to account for time and location variables.
 -	Recommended investing in targeted marketing and advertising to increase brand awareness and drive sales.
 
+![Click-Conversion-Rate](/assets/img/ctr.png)
+
 ### Olympics Data Analysis with Azure
 [Source Code](https://github.com/Keerthibaireddy/tokyo-olympics-data)
 
 -	Extracted Tokyo Olympic data including teams, athletes, medals from GitHub repository through Azure Data Factory, transformed the data using Spark code in Azure Databricks to read from Azure Data Factory and ingested into Azure Data Lake Gen2 and performed country-wise analysis on the medals achieved in Azure Synapse and visualized the insights in Power BI.
+
+![Architecture ](/assets/img/architecture.png)
 
