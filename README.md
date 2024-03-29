@@ -43,6 +43,11 @@ B.S. Information Technology (June 2019)
 -	Handled L2 support in maintenance and incident management processes including BRDs, troubleshooting, monitoring through effective communication with cross functional team of experts i.e. SMEs to devise data management and data integration patterns.
 -	Collaborated with business teams and stakeholders to streamline the processes to deliver data solutions for key business decisions.
 
+## Achievements
+- One of the selected three members out of 600 students to recieve a Graduate Teaching Assistantship throughout Masters education at USF.
+- Received PMSS merit scholarship throughout Bachelors education.
+- Elected as a Board Member of Techvision Club at SNIST conducting 15+ events on emerging Technologies with a footprint of 200+ students and managed a team of 10 for fundraising and event organisation.
+
 ## Projects
 ### 2023 Tampa State of the Region - E-Insights Report | Tableau, Excel, Web-Scraping 
 [Publication](https://www.usf.edu/business/documents/state-of-the-region/e-insights-report-2023.pdf)
