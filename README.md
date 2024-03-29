@@ -45,7 +45,7 @@ B.S. Information Technology (June 2019)
 
 ## Achievements
 - One of the selected three members out of 600 students to recieve a Graduate Teaching Assistantship throughout Masters education at USF.
-- Received PMSS merit scholarship throughout Bachelors education.
+- PMSS(Prime Minister Scholarship Scheme) merit scholarship receipent covering Bachelors education.
 - Elected as a Board Member of Techvision Club at SNIST conducting 15+ events on emerging Technologies with a footprint of 200+ students and managed a team of 10 for fundraising and event organisation.
 
 ## Projects
