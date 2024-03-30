@@ -5,7 +5,7 @@
 ## About
 As an analytics professional, I thrive on transforming data to provide data-driven solutions. My 3+ years of experience as a Data Engineer has enhanced my skills in synthesizing compelling narratives and stories from the data using SQL and Python. Expertise in implementing ETL process and developing efficient transformations to optimize the processing time and system performance using Cloud services like GCP and AWS.  I am currently enrolled in MS program of Business Analytics and Information Systems major to further develop my passion towards the intersection of Technology and Business. 
 
-Outside of work, I'm a curious commuicator and a listener in knowing diverse experiences of individuals in travel, business, work-life balance, personal growth etc and an adept podcast lover.
+Outside of work, I'm a curious commuicator and a listener in knowing diverse experiences of individuals in travel, business, work-life balance, personal growth etc and an adept podcast lover and a huge fan of American Sitcom - Friends.
 
 I aspire to utilize my passion towards data in providing inisghts that enhances data-driven decision making and continuously evolve in the learning and execution as a data professional. I am currently looking for full-time opportunities starting May 2024 in this domain.
 
